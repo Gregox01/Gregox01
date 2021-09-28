@@ -6,7 +6,7 @@ int sensorPin = 2;
 
 
 int status = WL_IDLE_STATUS;
-char servername[]="rolfing.berlin";  // remote server we will connect to
+char servername[]="";  // remote server we will connect to
 
 WiFiClient client;
 
