@@ -1,7 +1,7 @@
 #include <SPI.h>
 #include <WiFiNINA.h>
-char ssid[] = "AJNRouter24";          //  your network SSID (name)
-char pass[] = "elTucumano68";   // your network password
+char ssid[] = "";          //  your network SSID (name)
+char pass[] = "";   // your network password
 int sensorPin = 2; 
 
 
